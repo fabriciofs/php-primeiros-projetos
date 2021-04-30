@@ -1,0 +1,13 @@
+{
+    "name": "fabriciofs/php_masterclass",
+    "authors": [
+        {
+            "name": "Fabricio Ferreira",
+            "email": "fabricio@fabriciofs.eti.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
